@@ -14,7 +14,7 @@
   "tokens": [
     {
       "name": "Wrapped BNB",
-      "address": "0xe65bb9bf80ce9c638775aa5e8ef69d529eac66a1",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
