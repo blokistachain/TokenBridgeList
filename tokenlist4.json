@@ -1,5 +1,5 @@
 {
-  "name": "Trust Wallet: Smart Chain",
+  "name": "Binance Smart Chain",
   "timestamp": "2022-11-21T14:04:21.015Z",
   "version": {
     "major": 1,
@@ -7,10 +7,18 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "logoURI": "https://raw.githubusercontent.com/blokistachain/TokenBridgeList/main/bcc_logo.png",
   "keywords": [
-    "usdt"
+    "bnb"
   ],
   "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "address": "0xe65bb9bf80ce9c638775aa5e8ef69d529eac66a1",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/blokistachain/TokenBridgeList/main/bcc_logo.png"
+    }
   ]
 }
